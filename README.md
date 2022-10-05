@@ -2,9 +2,9 @@
 
 This template repository is the starter project for App. Dev. 2 project. Written in Flutter/Dart.
 
-### Deliverables
+## Deliverables
 
-## Deliverable 0
+### Deliverable 0
 
 The holistic learning of the course will be evaluated through the term project in which a team of 2-3 students should design and implement a mobile application from scratch. The app selected should cover a challenging task.
 
@@ -19,11 +19,11 @@ For this deliverable, you have the following tasks:
 • Project Description (innovation) – 2%  
 • Mock-up design – 3%
 
-**The deadline for your Deliverable 0 is October 12, 2022, end of the day.**
+<ins>**The deadline for your Deliverable 0 is October 12, 2022, end of the day.**</ins>
 
-Your **presentation** will be on **October 13, 2022, during your class time.**
+Your **presentation** will be on<ins>**October 13, 2022, during your class time.**</ins>
 
-## Deliverable 1
+### Deliverable 1
 
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
@@ -41,7 +41,7 @@ Please submit a clone of your project and the GitHub link on Lea. You can includ
 
 Your **presentation** for this deliverable is on **November 18, 2022, during your class time.**
 
-## Deliverable 2
+### Deliverable 2
 
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
