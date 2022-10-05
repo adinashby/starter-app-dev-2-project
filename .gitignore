@@ -3,7 +3,6 @@
 .packages
 
 # Conventional directory for build output.
-bin/
 .DS_Store
 build/
 .gradle/
