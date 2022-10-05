@@ -21,7 +21,7 @@ For this deliverable, you have the following tasks:
 
 <ins>**The deadline for your Deliverable 0 is October 12, 2022, end of the day.**</ins>
 
-Your **presentation** will be on<ins>**October 13, 2022, during your class time.**</ins>
+Your **presentation** will be on <ins>**October 13, 2022, during your class time.**</ins>
 
 ### Deliverable 1
 
@@ -37,9 +37,9 @@ Also, include a document explaining task distribution between team members.
 
 Please submit a clone of your project and the GitHub link on Lea. You can include everything except the “Build” folder so it fits within the limits for uploading.
 
-**The deadline for your Deliverable 1 is November 17, 2022, end of the day.**
+<ins>**The deadline for your Deliverable 1 is November 17, 2022, end of the day.**</ins>
 
-Your **presentation** for this deliverable is on **November 18, 2022, during your class time.**
+Your **presentation** for this deliverable is on <ins>**November 18, 2022, during your class time.**</ins>
 
 ### Deliverable 2
 
@@ -63,6 +63,6 @@ Also, include a document explaining task distribution between team members.
 
 Please submit a clone of your project and the GitHub link on Lea. You can include everything except the “Build” folder so it fits within the limits for uploading.
 
-**The deadline for your Deliverable 2 is December 6, 2022, end of the day.**
+<ins>**The deadline for your Deliverable 2 is December 6, 2022, end of the day.**</ins>
 
-Your **presentation** for this deliverable is on **December 7, during your class time.**
+Your **presentation** for this deliverable is on <ins>**December 7, during your class time.**</ins>
