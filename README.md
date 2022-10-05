@@ -52,7 +52,7 @@ For this deliverable, you have the following tasks based on your course outline 
 • Location awareness (Google maps, places, address) – 2%  
 • Running on an emulator – 2%
 
-Final report: **(5%)**
+Final report: **(5%)**  
 • Project Aim and description  
 • Functional and non-functional requirements  
 • User stories  
