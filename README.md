@@ -6,7 +6,7 @@ This template repository is the starter project for App. Dev. 2 project. Written
 
 ### Deliverable 0
 
-The holistic learning of the course will be evaluated through the term project in which a team of 2-3 students should design and implement a mobile application from scratch. The app selected should cover a challenging task.
+The holistic learning of the course will be evaluated through the term project in which a team of 2-4 students should design and implement a mobile application from scratch. The app selected should cover a challenging task.
 
 At the end of the term, each team needs to submit a project report, present their ideas and also demonstrate the app to the teacher/class. A team of three students (max) would be considered a team. There will be three deliverables
 
