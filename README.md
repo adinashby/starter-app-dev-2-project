@@ -19,6 +19,8 @@ For this deliverable, you have the following tasks:
 • Project Description (innovation) – 1%  
 • Mock-up design – 2%
 
+You could use tools like [Moqups](https://moqups.com/) or [Figma](https://www.figma.com/) for making the mock-up design and wiring.
+
 ### Deliverable 1
 
 For this deliverable, you have the following tasks based on your course outline **(10%)**:
