@@ -50,5 +50,3 @@ Final report: **(4%)**
 • User stories  
 • Test cases  
 • Individual’s role and responsibilities
-
-Also, include a document explaining task distribution between team members.
