@@ -33,8 +33,6 @@ For this deliverable, you have the following tasks based on your course outline 
 
 Also, include a document explaining task distribution between team members.
 
-Please submit a clone of your project and the GitHub link on Lea. You can include everything except the “Build” folder so it fits within the limits for uploading.
-
 ### Deliverable 2
 
 For this deliverable, you have the following tasks based on your course outline **(13%)**:
@@ -54,5 +52,3 @@ Final report: **(4%)**
 • Individual’s role and responsibilities
 
 Also, include a document explaining task distribution between team members.
-
-Please submit a clone of your project and the GitHub link on Lea. You can include everything except the “Build” folder so it fits within the limits for uploading.
